@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "遊樂數學場 · 六年級",
+      "hasCanvas": false,
+      "bodyTextLen": 240,
+      "bodyTextHash": "add78ede242f493333249dec2fc39079532479c29915072d5b07f3e4c7d3a262",
+      "bodyTextPrefix": "遊樂數學場 學生01的小六數學 備試 試卷 練習 重溫 導師 對戰 香港小六數學 你好，學生01 你的名字 記住我 起點 小數（",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/park-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "遊樂數學場 · 六年級",
+      "hasCanvas": false,
+      "bodyTextLen": 240,
+      "bodyTextHash": "add78ede242f493333249dec2fc39079532479c29915072d5b07f3e4c7d3a262",
+      "bodyTextPrefix": "遊樂數學場 學生01的小六數學 備試 試卷 練習 重溫 導師 對戰 香港小六數學 你好，學生01 你的名字 記住我 起點 小數（",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/park-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/park-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

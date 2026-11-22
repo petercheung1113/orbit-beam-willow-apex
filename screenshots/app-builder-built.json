@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "登入 · 遊樂數學場",
+      "hasCanvas": false,
+      "bodyTextLen": 11,
+      "bodyTextHash": "24a881ff650e8cce5e25b50e43acc4b0f65917e65b8a12a5a8f717be79eb65ce",
+      "bodyTextPrefix": "登入 帳號 密碼 進入",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "登入 · 遊樂數學場",
+      "hasCanvas": false,
+      "bodyTextLen": 11,
+      "bodyTextHash": "24a881ff650e8cce5e25b50e43acc4b0f65917e65b8a12a5a8f717be79eb65ce",
+      "bodyTextPrefix": "登入 帳號 密碼 進入",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

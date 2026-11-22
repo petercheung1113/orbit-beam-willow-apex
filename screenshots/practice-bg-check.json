@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/practice",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "練習 · 遊樂數學場",
+      "hasCanvas": false,
+      "bodyTextLen": 307,
+      "bodyTextHash": "b012936a6eebbfaa4003f809e6b4fef5d8d2285b003688e4c9fdf474f66e18db",
+      "bodyTextPrefix": "遊樂數學場 學生01的小六數學 備試 試卷 練習 重溫 導師 對戰 練習及模擬小測 揀課題練習 每個課題 100 題，分基礎、鞏",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/practice-bg-check.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "練習 · 遊樂數學場",
+      "hasCanvas": false,
+      "bodyTextLen": 307,
+      "bodyTextHash": "b012936a6eebbfaa4003f809e6b4fef5d8d2285b003688e4c9fdf474f66e18db",
+      "bodyTextPrefix": "遊樂數學場 學生01的小六數學 備試 試卷 練習 重溫 導師 對戰 練習及模擬小測 揀課題練習 每個課題 100 題，分基礎、鞏",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/practice-bg-check-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/practice-bg-check.json"
+}

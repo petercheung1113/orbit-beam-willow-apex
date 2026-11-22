@@ -1,0 +1,4 @@
+ALTER TABLE chat_messages ADD COLUMN IF NOT EXISTS file_id TEXT;
+ALTER TABLE chat_messages ADD COLUMN IF NOT EXISTS file_name TEXT;
+ALTER TABLE chat_messages ADD COLUMN IF NOT EXISTS file_mime TEXT;
+ALTER TABLE chat_messages ADD COLUMN IF NOT EXISTS file_size BIGINT;
